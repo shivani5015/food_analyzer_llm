@@ -32,3 +32,18 @@
           ▼
  [ Structured Output ] ---> Renders Identification, Nutrition Table,
                              Verdict, & Actionable Health Tips
+
+##  Tech Stack
+
+* **Backend:** FastAPI, Python
+* **AI/LLM:** Google Gemini API (Vision Model)
+* **Frontend:** HTML, Jinja2
+* **Tools:** Pillow (PIL), `python-dotenv`, Docker
+
+---
+
+##  Quick Start
+
+1. **Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
